@@ -1,6 +1,8 @@
 # Drive_by_Wire
 
 This is a drive by wire system design used in Teknofest 2020 Robotaksi competetion by KIZILELMA Team
+Project is published publicly for educational purposes
+if you have any questions or you have found a bug or some way to improve the project feel free to contact me.
 
 Authors:
 Aykut Erdem Tüm

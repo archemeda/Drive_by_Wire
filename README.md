@@ -5,10 +5,10 @@ Project is published publicly for educational purposes
 if you have any questions or you have found a bug or some way to improve the project feel free to contact me.
 
 Authors:
-Aykut Erdem Tüm
-Hüseyin Bacak
-Burhan Engin
-Kadir Kazdal
+Aykut Erdem Tüm,
+Hüseyin Bacak,
+Burhan Engin,
+Kadir Kazdal,
 
 The project is coded using HAL drivers and STM Cube IDE. 
 Microcontroller: STM32F407VGT 
